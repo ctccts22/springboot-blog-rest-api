@@ -6,8 +6,8 @@ This project is a simple blogging platform implemented using Spring Boot, provid
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
 - [Authorization](#authorization)
@@ -38,3 +38,10 @@ This project is a simple blogging platform implemented using Spring Boot, provid
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/spring-boot-blog.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd spring-boot-blog
+
+
+   
+
